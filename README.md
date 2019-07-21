@@ -1,6 +1,7 @@
 # SummerLearning
 Repository for some note in learning
 
+---
 ***intro.docx*** is note for the book named "Speech and language processing: An introduction to natural language processing, computational linguistics, and speech recognition"
 
 ***赵力.docx*** is note for the book named "语音信号处理"
